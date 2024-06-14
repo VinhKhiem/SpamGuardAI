@@ -1,2 +1,2 @@
 # SpamGuardAI
-An AI-driven bot capable of reading CSV files and effectively filtering spam messages
+This project uses deep learning techniques to classify spam messages, helping to detect and eliminate unwanted messages in email applications.
